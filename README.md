@@ -1,6 +1,14 @@
 # IneedMoreRAM
 It can make your windows a bit more free memory.  
 
+\
+可執行檔: 下載 IneedMoreRAM.zip\
+雜湊值: IneedMoreRAM_Hash.txt
+
+Executable file: Download the IneedMoreRAM.zip\
+hash value: IneedMoreRAM_Hash.txt
+
+\
 ![IMG](https://i.imgur.com/JQEjMhv.gif)
 
 原理：
