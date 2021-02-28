@@ -54,7 +54,7 @@ hash value: [IneedMoreRAM_Hash.txt](../../raw/main/IneedMoreRAM_Hash.txt)
 
 感謝您的使用，如果您覺得不錯用，請推廣給您的好友，
 
-並歡迎來我的首頁逛一逛、看一下在下寫的小說（就是要推廣小說啦）。
+**並歡迎來我的首頁逛一逛、看一下在下寫的小說（_就是要推廣小說啦_）。**
 
 https://overdoingism.blogspot.com/p/blog-page.html
 
